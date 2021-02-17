@@ -1,6 +1,5 @@
 Python Package template
 =======================
------------------------
 #### **A Python package repository template**
 
 [![GitHub](https://img.shields.io/github/license/zeroday0619/python-package-template?style=for-the-badge)](https://github.com/python-package-template/blob/main/LICENSE)
