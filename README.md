@@ -13,7 +13,7 @@ Python Package template
 Click the ```Use this template``` button
 
 
-![Use template button](https://github.com/Justintime50/python-template/blob/main/assets/use_template_button.png?raw=true)
+![Use template button](https://media.discordapp.net/attachments/633971402550280192/811578465811038228/use_template_button.png)
 
 or 
 
